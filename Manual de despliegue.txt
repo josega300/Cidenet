@@ -1,0 +1,14 @@
+La solcuión se divide en dos proyectos, uno se encarga del contexto de la Base de Datos  con el modelo y a su vez publica los datos en las url disponibles en formato JSON y el otro peroyecto funciona con el patron MVC con el NUget de angular integrado a la uniica vista del controlador de usuarios, en donde consulta las url publicadas y consume el JSON para mostrarlo en las etiquetas HTML con angular.
+.
+MANUAL DE DESPLIEGUE
+--------------------
+
+1 - Ejecutar el archivo SQLQueryCidenet.sql en el motor de SQl server.
+2 - Abrir la solucion WCF_REST_Service.sln con el visual studio 2019.
+3 - Ejecutar el proyecto en la solucion general y esperar el despliegue del navegador.
+4 - Copiar la url dle navegador
+NOTA: Como la prueba es a nivel lcoal, se debe deshabilitar la gestion de CCORS en el navegador chrome con las siguientes instrucciones
+	1 - Presione las teclas windows + R
+	2 - Ongresar el comando "chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security" y de click en ejecutar. 
+	3 - Pegar el url en el navegador abierto (Cors deshabilitados).
+5 - Probar el aplicativo.
