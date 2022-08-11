@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UsersManagementModelStoreContainer" CdmEntityContainer="UsersManagementEntities">
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="UsersManagementModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="PrimerApellido" ColumnName="PrimerApellido" />
+          <ScalarProperty Name="SegundoApellido" ColumnName="SegundoApellido" />
+          <ScalarProperty Name="PrimerNombre" ColumnName="PrimerNombre" />
+          <ScalarProperty Name="OtrosNombres" ColumnName="OtrosNombres" />
+          <ScalarProperty Name="PaisEmpleo" ColumnName="PaisEmpleo" />
+          <ScalarProperty Name="TipoIdentificacion" ColumnName="TipoIdentificacion" />
+          <ScalarProperty Name="NumeroIdentificacion" ColumnName="NumeroIdentificacion" />
+          <ScalarProperty Name="CorreoElectronico" ColumnName="CorreoElectronico" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="FechaHoraRegistro" ColumnName="FechaHoraRegistro" />
+          <ScalarProperty Name="FechaHoraActualizado" ColumnName="FechaHoraActualizado" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="FechaIngreso" ColumnName="FechaIngreso" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

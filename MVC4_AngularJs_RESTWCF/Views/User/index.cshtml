@@ -1,0 +1,297 @@
+﻿<html data-ng-app="RESTClientModule">
+@{
+    ViewBag.Title = "Prueba de Angular Js y .NET C#";
+}
+
+<body>
+    <h2 style="font-size: 29px; color: #9e9393; margin-bottom: 0; padding-bottom: 0;">Listado de Usuarios Cidenet</h2>
+
+    <table id="tblContainer" data-ng-controller="CRUD_AngularJs_RESTController" style=" width: 180%; ">
+        <tr>
+            <td>
+                <table style="border: solid 2px #9c9c9c; padding: 5px; width: 25%;">
+                    <tr style="border: solid 1px;  height: 60px; background-color: #5d98b0; color: #fdf5f5;">
+                        <td>
+                            <input type="text" id="UserID" data-ng-model="UserID" />
+                        </td>
+                        <td>
+                            <input type="button" id="Edit" value="Buscar" data-ng-click="getAllUsersFilter(1086)" />
+                        </td>
+                    </tr>
+                </table>
+
+                    <table style="border: solid 2px #9c9c9c; padding: 5px; width: 100%;">
+                        <tr style="border: solid 1px;  height: 60px; background-color: #5d98b0; color: #fdf5f5;">
+                            <th></th>
+                            <th>ID</th>
+
+
+                            <th>Primer Apellido</th>
+                            <th>Segundo Apellido</th>
+                            <th>Primer Nombre</th>
+                            <th>Otros Nombres Red</th>
+                            <th>Pais de Empleo</th>
+                            <th>Tipo de Identificacion</th>
+                            <th>Numero de Identificacion</th>
+                            <th>Correo Electronico</th>
+                            <th>Estado</th>
+
+
+
+                            <th></th>
+                            <th></th>
+                        </tr>
+                        <tbody data-ng-repeat="usr in Users">
+                            <tr style="border: solid 1px;">
+                                <td></td>
+                                <td><span>{{usr.UserID}}</span></td>
+
+                                <td><span>{{usr.PrimerApellido}}</span></td>
+                                <td><span>{{usr.SegundoApellido}}</span></td>
+                                <td><span>{{usr.PrimerNombre}}</span></td>
+                                <td><span>{{usr.OtrosNombres}}</span></td>
+                                <td><span>{{usr.PaisEmpleo}}</span></td>
+                                <td><span>{{usr.TipoIdentificacion}}</span></td>
+                                <td><span>{{usr.NumeroIdentificacion}}</span></td>
+                                <td><span>{{usr.CorreoElectronico}}</span></td>
+                                <td><span>{{usr.Estado}}</span></td>
+
+
+                                <td>
+                                    <input type="button" id="Edit" value="Editar" data-ng-click="get(usr)" />
+                                </td>
+
+                                <td>
+                                    <input type="button" id="Delete" value="Eliminar" data-ng-click="delete(usr)" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div style="color: red; font-size: 20px;">{{Message}}</div>
+                <br />
+                <h2 style="font-size: 29px; color: #9e9393; margin-bottom: 0; padding-bottom: 0;">Datos de Usuario</h2>
+                <table style="border: solid 2px #b4b4b4; padding: 2px; ">
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Usuario ID</span>
+                        </td>
+                        <td>
+                            <input type="text" id="UserID" readonly="readonly" data-ng-model="UserID" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Primer Apellido</span>
+                        </td>
+                        <td>
+                            <input type="text" id="sPrimerApellido" data-ng-model="PrimerApellido" required />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Segundo Apellido</span>
+                        </td>
+                        <td>
+                            <input type="text" id="sSegundoApellido" data-ng-model="SegundoApellido" required />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Primer Nombre</span>
+                        </td>
+                        <td>
+                            <input type="text" id="sPrimerNombre" required data-ng-model="PrimerNombre" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Otros Nombres</span>
+                        </td>
+                        <td>
+                            <input type="text" id="sOtrosNombres" required data-ng-model="OtrosNombres" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Pais de Empleo</span>
+                        </td>
+                        <td>
+                            <select id="sPaisEmpleo" name="PaisEmpleo" required data-ng-model="PaisEmpleo" style="width: 99%; height: 30px;">
+                                <option value="" selected="selected" hidden="hidden">Seleccione</option>
+                                <option value="Colombia">Colombia</option>
+                                <option value="Estados Unidos">Estados Unidos</option>
+                            </select>
+                        
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Tipo de Identificacion</span>
+                        </td>
+                        <td>
+                            <select  id="sTipoIdentificacion" name="TipoIdentificacion" required data-ng-model="TipoIdentificacion" style="width: 99%; height: 30px;">
+                                <option value="" selected="selected" hidden="hidden">Seleccione</option>
+                                <option value="Cedula de Ciudadania">Cedula de Ciudadania</option>
+                                <option value="Cedula de Extranjeria">Cedula de Extranjeria</option>
+                                <option value="Pasaporte">Pasaporte</option>
+                                <option value="Estados Unidos">Estados Unidos</option>
+                                <option value="Permiso Especial">Permiso Especial</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Numero de Identificacion</span>
+                        </td>
+                        <td>
+                            <input type="text" id="sNumeroIdentificacion" data-ng-model="NumeroIdentificacion" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Fecha de Ingreso</span>
+                        </td>
+                        <td>
+                            <input type="date"  
+                                min="2022-07-11" max="2022-08-11" onchange="obtenerFecha(this)" id="sFechaIngreso" data-ng-model="FechaIngreso" name="FechaIngreso" placeholder="YYYY-MM-DD" required />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Area</span>
+                        </td>
+                        <td>
+                            <select id="sArea" name="Area" required data-ng-model="Area" style="width: 99%; height: 30px;">
+                                <option value="" selected="selected" hidden="hidden">Seleccione</option>
+                                <option value="Administracion">Administración</option>
+                                <option value="Financiera">Financiera</option>
+                                <option value="Compras">Compras</option>
+                                <option value="Infraestructura">Infraestructura</option>
+                                <option value="Operaciones">Operaciones</option>
+                                <option value="Talento Humano">Talento Humano</option>
+                                <option value="Servicios Varios">Servicios Varios</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>Estado</span>
+                        </td>
+                        <td>
+                            <select id="sEstado" name="Estado" required data-ng-model="Estado" style="width: 99%; height: 30px;">
+                                <option value="" selected="selected" hidden="hidden">Seleccione</option>
+                                <option value="Activo" selected>Activo</option>
+                                <option value="No Activo">No Activo</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <input type="button" id="save" value="Guardar" onclick="validar()" data-ng-click="save()" />
+
+                            <input type="button" id="Clear" value="Limpiar" data-ng-click="clear()" />
+                        </td>
+                    </tr>
+                </table>
+
+            </td>
+        </tr>
+
+    </table>
+</body>
+</html>
+<script src="~/Scripts/angular.js"></script>
+<script src="~/Scripts/MyScripts/Modules.js"></script>
+<script src="~/Scripts/MyScripts/Services.js"></script>
+<script src="~/Scripts/MyScripts/Controllers.js"></script>
+<script src="https://momentjs.com/downloads/moment.js"></script>
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryui")
+ 
+    <script type="text/javascript">
+
+        function validar() {        
+            
+            var sPrimerApellido = $("#sPrimerApellido").val();
+            if (sPrimerApellido == null || sPrimerApellido.length == 0) {
+                //event.preventDefault();
+
+                alert("Primer Apellido, el campo esta vacio.");
+                window.stop();
+            }
+
+            var sSegundoApellido = $("#sSegundoApellido").val();
+            if (sSegundoApellido == null || sSegundoApellido.length == 0) {
+                alert("Segundo Apellido, el campo esta vacio.");
+                window.stop();
+            } 
+
+            var sPrimerNombre = $("#sPrimerNombre").val();
+            if (sPrimerNombre == null || sPrimerNombre.length == 0) {
+                alert("Primer Nombre, el campo esta vacio.");
+                window.stop();
+            } 
+
+            var sPaisEmpleo = $("#sPaisEmpleo").val();
+            if (sPaisEmpleo == null || sPaisEmpleo.length == 0) {
+                alert("Pais Empleo, el campo esta vacio.");
+                window.stop();
+            } 
+
+            var sTipoIdentificacion = $("#sTipoIdentificacion").val();
+            if (sTipoIdentificacion == null || sTipoIdentificacion.length == 0) {
+                alert("Tipo de Identificacion, el campo esta vacio.");
+                window.stop();
+            }
+
+            var sNumeroIdentificacion = $("#sNumeroIdentificacion").val();
+            if (sNumeroIdentificacion == null || sNumeroIdentificacion.length == 0) {
+                alert("Numero de Identificacion, el campo esta vacio.");
+                window.stop();
+            }
+
+            var sFechaIngreso = $("#sFechaIngreso").val();
+            if (sFechaIngreso == null || sFechaIngreso.length == 0) {
+                alert("Fecha de Ingreso, el campo esta vacio.");
+                window.stop();
+            }
+
+            var sArea = $("#sArea").val();
+            if (sArea == null || sArea.length == 0) {
+                alert("Area, el campo esta vacio.");
+                window.stop();
+            }
+
+            var sEstado = $("#sEstado").val();
+            if (sEstado == null || sEstado.length == 0) {
+                alert("Estado, el campo esta vacio.");
+                window.stop();
+            }
+        }
+
+        
+        $(document).ready(function () {
+
+        });
+
+    </script>
+}

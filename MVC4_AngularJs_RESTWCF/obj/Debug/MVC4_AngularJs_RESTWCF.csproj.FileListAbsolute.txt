@@ -1,0 +1,109 @@
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\MVC4_AngularJs_RESTWCF.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\MVC4_AngularJs_RESTWCF.pdb
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Antlr3.Runtime.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.Core.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\EntityFramework.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Newtonsoft.Json.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Net.Http.Formatting.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Helpers.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Http.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Http.WebHost.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Mvc.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Optimization.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Razor.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\WebGrease.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\WebMatrix.Data.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\WebMatrix.WebData.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\EntityFramework.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Newtonsoft.Json.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Net.Http.Formatting.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Helpers.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Http.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Http.WebHost.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Mvc.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Razor.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\WebMatrix.Data.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\WebMatrix.WebData.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.Core.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.dll
+C:\Users\Rahul\documents\visual studio 2012\Projects\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.pdb
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\MVC4_AngularJs_RESTWCF.dll.config
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\MVC4_AngularJs_RESTWCF.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\MVC4_AngularJs_RESTWCF.pdb
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Antlr3.Runtime.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.Core.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\EntityFramework.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Newtonsoft.Json.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Net.Http.Formatting.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Helpers.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Http.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Http.WebHost.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Mvc.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Optimization.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Razor.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\WebGrease.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\WebMatrix.Data.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\WebMatrix.WebData.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Mono.Math.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\EntityFramework.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Newtonsoft.Json.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Net.Http.Formatting.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Helpers.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Http.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Http.WebHost.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Mvc.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.Razor.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\WebMatrix.Data.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\WebMatrix.WebData.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.Core.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\bin\Mono.Math.xml
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.csproj.AssemblyReference.cache
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.csproj.CoreCompileInputs.cache
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.csproj.CopyComplete
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.dll
+C:\Users\Asodesc Inc\Desktop\net__test_bogota_3\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.pdb
+C:\Users\Asodesc Inc\Documents\ProyectosNet\Proyectos_MSNET\PruebasTLMARK Bogota\net__test_jose_pulido\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.csproj.AssemblyReference.cache
+C:\Users\Asodesc Inc\Documents\ProyectosNet\Proyectos_MSNET\PruebasTLMARK Bogota\net__test_jose_pulido\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.csproj.CoreCompileInputs.cache
+C:\Users\Asodesc Inc\Documents\ProyectosNet\Proyectos_MSNET\PruebasTLMARK Bogota\net__test_jose_pulido\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.dll
+C:\Users\Asodesc Inc\Documents\ProyectosNet\Proyectos_MSNET\PruebasTLMARK Bogota\net__test_jose_pulido\WCF_REST_Service\MVC4_AngularJs_RESTWCF\obj\Debug\MVC4_AngularJs_RESTWCF.pdb
